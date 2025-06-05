@@ -36,10 +36,11 @@
 
 ## 🤝 Let's Connect
 
-I'm always open to interesting discussions and collaborations! Feel free to reach out.[![Visits Badge](https://badges.pufler.dev/visits/yourusername/yourusername)]()
+I'm always open to interesting discussions and collaborations! Feel free to reach out.
 <!---
 MechMasterToolBox/MechMasterToolBox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+[![Visits Badge](https://badges.pufler.dev/visits/yourusername/yourusername)]()
 --->
 
 
