@@ -1,18 +1,18 @@
 # Hi there 👋 I'm [MechMasterToolBox]
 
-**`[Your Role/Tagline]`** (e.g., "Full-Stack Developer | Open-Source Enthusiast")
+**`[Full-Stack Developer | Open-Source Enthusiast]`**
 
 [![Twitter Badge](https://img.shields.io/badge/-@YourTwitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YourTwitter)
 [![LinkedIn Badge](https://img.shields.io/badge/-YourLinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedIn)
-[![Email Badge](https://img.shields.io/badge/-YourEmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email Badge](https://img.shields.io/badge/-YourEmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:MechMasterToolBox@outlook.com)
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **[Current Project]**
+- 🔭 I’m currently working on **[HaoWen Tech]**
 - 🌱 I’m currently learning **Next.js, Rust, etc.**
 - 👯 I’m looking to collaborate on **open-source projects**
 - 💬 Ask me about **Web Development, DevOps, etc.**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
+- ⚡  Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
 
 ## 🛠 Tech Stack
 
@@ -36,21 +36,10 @@
 
 ## 🤝 Let's Connect
 
-I'm always open to interesting discussions and collaborations! Feel free to reach out.
-
-[![Visits Badge](https://badges.pufler.dev/visits/yourusername/yourusername)]()
-
+I'm always open to interesting discussions and collaborations! Feel free to reach out.[![Visits Badge](https://badges.pufler.dev/visits/yourusername/yourusername)]()
 <!---
 MechMasterToolBox/MechMasterToolBox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-- 👋 Hi, I’m @MechMasterToolBox
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 
