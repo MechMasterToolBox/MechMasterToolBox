@@ -1,6 +1,6 @@
-# Hi there 👋 I'm [MechMasterToolBox]
+# Hi there 👋 I'm MechMasterToolBox
 
-**`[Full-Stack Developer | Open-Source Enthusiast]`**
+**`Full-Stack Developer | Open-Source Enthusiast`**
 
 [![Twitter Badge](https://img.shields.io/badge/-@YourTwitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YourTwitter)
 [![LinkedIn Badge](https://img.shields.io/badge/-YourLinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedIn)
@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **[HaoWen Tech]**
+- 🔭 I’m currently working on **HaoWen Tech**
 - 🌱 I’m currently learning **Next.js, Rust, etc.**
 - 👯 I’m looking to collaborate on **open-source projects**
 - 💬 Ask me about **Web Development, DevOps, etc.**
@@ -29,10 +29,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/MechMasterToolBox)
 
-## 📝 Latest Blog Posts
-
-- [How to Build a Serverless API](https://qiandocs.com)
-- [React Hooks Explained](https://qiandocs.com)
 
 ## 🤝 Let's Connect
 
